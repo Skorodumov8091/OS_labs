@@ -1,0 +1,23 @@
+NAME
+       ls - list directory contents
+
+SYNOPSIS
+       ls [OPTION]... [FILE]...
+
+DESCRIPTION
+       List  information about the FILEs (the current directory by default).  Sort entries alphabetically if none of -cftuvSUX nor --sort is speci‐
+       fied.
+
+       Mandatory arguments to long options are mandatory for short options too.
+
+       -a, --all
+              do not ignore entries starting with .
+
+       -A, --almost-all
+              do not list implied . and ..
+
+       --author
+              with -l, print the author of each file
+
+
+
